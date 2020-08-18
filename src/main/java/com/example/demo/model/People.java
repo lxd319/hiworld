@@ -6,4 +6,6 @@ package com.example.demo.model;
  * @Date 2020/8/18
  */
 public class People {
+
+    private Integer name;
 }
