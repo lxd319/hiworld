@@ -8,4 +8,8 @@ package com.example.demo.model;
 public class People {
 
     private Integer name;
+
+    public People(Integer name) {
+        this.name = name;
+    }
 }
