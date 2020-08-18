@@ -12,4 +12,8 @@ public class People {
     public People(Integer name) {
         this.name = name;
     }
+
+    public void setName(Integer name) {
+        this.name = name;
+    }
 }
