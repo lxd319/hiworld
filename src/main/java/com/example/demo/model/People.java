@@ -16,4 +16,8 @@ public class People {
     public void setName(Integer name) {
         this.name = name;
     }
+
+    public Integer getName() {
+        return name;
+    }
 }
